@@ -1,0 +1,19 @@
+
+       <div id="today-target">
+          <h4><strong>Everyday Target</strong></h4>
+        <p>Set today's target here</p>
+        <form action="/action_page.php">
+        
+  <div class="form-group">
+    <label for="">Cash Amount:</label>
+    <input type="number" class="form-control" id="target_amount_input">
+  </div>
+  
+ 
+  
+  <button type="submit" class="btn btn-primary">Set target</button>
+  
+  
+</form>
+       
+        </div>
