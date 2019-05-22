@@ -70,7 +70,9 @@ session_start();
                    <div style="background:#f1f1f1;padding:10px;text-align:center">
                         <h1>Welcome to E-matatu Sacco system</h1>
                    </div>
-                   <div class="col-sm-3"></div>
+                   <div class="col-sm-15"> 
+                   <div style="text-align:center"> <h3>Sacco management system for transparency and accountability</h3></div>
+                   </div>
 
                    <div class="col-sm-6" style="padding:10px;">
                       <?php 
